@@ -1,0 +1,18 @@
+#+TITLE: Your Blog Name
+#+AUTHOR: Your Name
+#+DATE: $(date +%Y-%m-%d)
+
+Welcome to your org-mode powered blog. No markdown nonsense here - pure Emacs org mode rendered to HTML.
+
+* Recent Posts
+
+[[./sitemap.html][Browse all posts]] - Auto-generated list of all blog posts
+
+* About
+
+Write about yourself here. What do you do? What are you interested in?
+
+* Links
+
+- [[https://github.com/YOUR_USERNAME/YOUR_REPO][Blog Source Code]] - See how this blog is built with pure org-mode
+- [[https://github.com/YOUR_USERNAME][Your GitHub]]

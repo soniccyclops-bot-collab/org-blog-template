@@ -1,0 +1,32 @@
+#+TITLE: Welcome to My Blog
+#+AUTHOR: Your Name
+#+DATE: $(date +%Y-%m-%d)
+
+This is your first post! Edit this file to write about whatever interests you.
+
+* Why Org Mode?
+
+Because markdown is for corporate simps. Org mode gives you:
+
+- Real structure and outlining
+- Code blocks that actually work  
+- Math support: $E = mc^2$
+- Tables that don't suck
+- Export to anything (HTML, LaTeX, PDF)
+
+* Code Example
+
+#+BEGIN_SRC python
+def hello_world():
+    """A simple hello world function"""
+    print("Hello from Python!")
+#+END_SRC
+
+* Next Steps
+
+1. Edit =org/index.org= to customize your homepage
+2. Create new posts in =org/posts/=
+3. Run =emacs --batch --load build-blog.el= to preview
+4. Push to main branch to auto-deploy
+
+Happy blogging!
