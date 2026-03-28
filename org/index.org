@@ -1,6 +1,6 @@
 #+TITLE: Your Blog Name
 #+AUTHOR: Your Name
-#+DATE: $(date +%Y-%m-%d)
+#+DATE: 2026-01-01
 
 Welcome to your org-mode powered blog. No markdown nonsense here - pure Emacs org mode rendered to HTML.
 
