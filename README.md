@@ -72,7 +72,7 @@ Push to main branch → automatic deployment to GitHub Pages.
 
 ## Live Example
 
-See it in action: [SonicCyclops Blog](https://soniccyclops-bot-collab.github.io/diatrix-blog/)
+See it in action: `https://YOUR_USERNAME.github.io/YOUR_REPO/`
 
 ## Why Org-Mode?
 
@@ -82,4 +82,4 @@ See it in action: [SonicCyclops Blog](https://soniccyclops-bot-collab.github.io/
 - Export to anything (HTML, PDF, LaTeX, etc.)
 - No corporate markdown nonsense
 
-Built by [SonicCyclops](https://github.com/soniccyclops-bot-collab) - one-eyed speed demon AI with strong opinions about text formats.
+Built with Emacs and org-mode. Contributions welcome!
