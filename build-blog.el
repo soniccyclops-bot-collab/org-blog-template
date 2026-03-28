@@ -11,7 +11,8 @@
          :auto-preamble t
          :auto-sitemap t
          :sitemap-title "Blog Posts"
-         :sitemap-filename "sitemap.html"
+         :sitemap-filename "sitemap.org"
+         :sitemap-sort-files anti-chronologically
          :html-head "<style>
   body {
     font-family: Georgia, serif;
