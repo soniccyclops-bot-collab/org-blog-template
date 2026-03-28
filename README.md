@@ -19,9 +19,7 @@ A clean, minimal static blog powered by Emacs org-mode and GitHub Pages. No mark
    - Edit `org/posts/welcome.org` or create new posts
    - Update author name in files
    - Customize styling in `build-blog.el` if desired
-4. **Activate GitHub Actions:**
-   - Move `github-workflows-template/` to `.github/workflows/`
-   - Commit and push to trigger deployment
+4. **Push to main** to trigger automatic deployment
 
 ## Local Development
 
@@ -60,7 +58,7 @@ Your content here with full org-mode features:
 ├── org/
 │   ├── index.org          # Homepage content
 │   └── posts/             # Blog posts (.org files)
-├── github-workflows-template/  # GitHub Actions (move to .github/)
+├── .github/workflows/     # GitHub Actions CI/CD
 ├── build-blog.el          # Org-publish configuration  
 ├── www/                   # Generated HTML (auto-created)
 └── README.md
